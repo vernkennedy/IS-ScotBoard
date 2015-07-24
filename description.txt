@@ -1,0 +1,11 @@
+ScotBoard
+Advising students on curricular, co-curricular and extra-curricular activities can be challenging, in large part because it is difficult to locate information about offerings. This is especially true for prospective students, first year students, and new faculty who are not yet familiar with the College’s offerings or where to find them. 
+
+The purpose of this project is to develop an intelligent web application that will 1) allow exploration of curricular, co-curricular, and extra-curricular opportunities available at The College of Wooster; and, 2) simplify the construction of a 4-year plan based on a student’s personal and academic interests. 
+
+
+
+
+
+
+--
